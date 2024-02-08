@@ -1,1 +1,7 @@
-<script>alert('test')</script>
+<script>
+    function  alert() {
+          alert('test')
+    }
+    
+    
+    </script>
